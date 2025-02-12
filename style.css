@@ -90,8 +90,15 @@ main{
 h1{
     font-family:Montserrat;
     font-weight: 800;
+    font-size: 56px;
 }
 
+hr{
+    border-color: #A45A49;
+}
+.hero-sub{
+    color:#C7BAB3;
+}
 .hero-conteudo{
     display: flex;
     flex-direction: column;
